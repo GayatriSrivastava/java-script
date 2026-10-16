@@ -1,0 +1,16 @@
+let a = 10;
+let b = "10";
+let c = true;
+let d;
+let e = null;
+let f = { name: "Ali" };
+let g = [1, 2, 3];
+let h = function() { return 5; };
+console.log("a=",a, "type:", typeof a);
+console.log("b=",b, "type:", typeof b);
+console.log("c=",c,"type=", typeof c);
+console.log("d=",d,"type=", typeof d);
+console.log("e=",e,"type=", typeof e);
+console.log("f=",f,"type=", typeof f);
+console.log("g=",g,"type=", typeof g);
+console.log("h=",h,"type=", typeof h);
