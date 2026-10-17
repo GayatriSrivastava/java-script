@@ -2,5 +2,5 @@
 function sayHello(){
     return "hello from coding gita!";
 }
-sayHello()
-sayHello()
+console.log(sayHello())
+console.log(sayHello())
